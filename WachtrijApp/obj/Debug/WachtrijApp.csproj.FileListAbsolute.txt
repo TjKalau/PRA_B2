@@ -22,3 +22,15 @@ C:\Users\tjkal\OneDrive\Documenten\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijA
 C:\Users\tjkal\OneDrive\Documenten\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csproj.CoreCompileInputs.cache
 C:\Users\tjkal\OneDrive\Documenten\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.exe
 C:\Users\tjkal\OneDrive\Documenten\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.pdb
+C:\Users\repti\OneDrive\Documents\GitHub\PRA_B2\WachtrijApp\bin\Debug\SensorData\AttractieStatus.xml
+C:\Users\repti\OneDrive\Documents\GitHub\PRA_B2\WachtrijApp\bin\Debug\SensorData\WachtrijSensoren.xml
+C:\Users\repti\OneDrive\Documents\GitHub\PRA_B2\WachtrijApp\bin\Debug\WachtrijApp.exe.config
+C:\Users\repti\OneDrive\Documents\GitHub\PRA_B2\WachtrijApp\bin\Debug\WachtrijApp.exe
+C:\Users\repti\OneDrive\Documents\GitHub\PRA_B2\WachtrijApp\bin\Debug\WachtrijApp.pdb
+C:\Users\repti\OneDrive\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csprojAssemblyReference.cache
+C:\Users\repti\OneDrive\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.FormWachtrij.resources
+C:\Users\repti\OneDrive\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.Properties.Resources.resources
+C:\Users\repti\OneDrive\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csproj.GenerateResource.cache
+C:\Users\repti\OneDrive\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csproj.CoreCompileInputs.cache
+C:\Users\repti\OneDrive\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.exe
+C:\Users\repti\OneDrive\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.pdb
